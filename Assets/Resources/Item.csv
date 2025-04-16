@@ -1,0 +1,16 @@
+﻿name,probability,id,tag
+나무,100,1,Wood
+풀,100,2,Grass
+돌,100,3,Rock
+석탄,100,4,Coal
+이빨,30,8,Teeth
+가죽,30,9,Leather
+체인,30,10,Chain
+강철,5,11,Iron
+가공된나무,5,12,Plank
+용의 눈물,33,13,Tear
+용의 비늘,33,14,Scale
+검붉은 보석,34,15,Jewerly
+1단계 가방,100,16,A_Bag
+2단계 가방,100,17,B_Bag
+용의 심장,100,18,Heart

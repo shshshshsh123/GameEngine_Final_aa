@@ -1,0 +1,7 @@
+﻿name,atk,atk_speed,hp,detect_dis,atk_range,walk_speed,return_dis,tag
+가디언,20,1.8,500,10,1.5,9,15,Guardian
+스카우트,7,1.7,50,30,1.2,11.5,0,Scout
+팬텀,9,1.7,100,20,1.2,11.5,0,Ghost
+불카니스,20,1.8,1000,40,2.5,11,50,Bulkaness
+거미,5,1.7,50,20,1.7,11.5,0,Spider
+플레이어,2,1,100,0,0.5,12,0,Player

@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GameManager
+  - Weapon
+  - UIManager
+  - ItemManager
+  - InvenManager
+  - MainUI
+  - Chest
+  - ExpManager
+  - Rock
+  - Coal
+  - Wall
+  - Ground
+  - Meteor
+  - MeteorHit
+  - WoodArrow
+  - IronArrow
+  - Volume
+  - InteractObject
+  - TextManager
+  - Event
+  - Wood
+  - Grass
+  - GuardianHit
+  - GuardianHUD
+  - Guardian
+  - Scout
+  - Spider
+  - Bulkaness
+  - SpiderHUD
+  - ScoutHUD
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - MiniMap
+  - Water
+  - UI
+  - Button
+  - Player
+  - Tree
+  - Rock
+  - Base
+  - Boss
+  - Monster
+  - Object
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: VFX
+    uniqueID: 228808941
+    locked: 0

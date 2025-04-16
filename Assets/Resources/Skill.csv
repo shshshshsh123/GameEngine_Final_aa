@@ -1,0 +1,10 @@
+﻿mon_tag,kind,atk,atk_count,reuse,duration,sp_tag
+Player,move,0,0,2.3,0,P_Dash
+Guardian,debuff,0,0,30,5,G_Sp1
+Guardian,move,10,1,20,0,G_Sp2
+Guardian,atk,18,2,40,0,G_Sp3
+Bulkaness,debuff,0,0,30,7,D_Sp1
+Bulkaness,atk,18,2,25,0,D_Sp2
+Bulkaness,atk,22,20,0,20,D_Sp3
+Bulkaness,atk,22,1,0,0,D_Sp4
+Bulkaness,debuff,0,0,10,1.5,D_Sp5
